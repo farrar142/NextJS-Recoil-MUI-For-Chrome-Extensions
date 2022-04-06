@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "My New Extension",
+  "short_name": "my-extension",
+  "version": "1.0.0",
+  "description": "My Extension",
+  "icons": {},
+  "permissions": [],
+  "action": {
+    "default_title": "My Extesnion",
+    "default_popup": "index.html"
+  }
+}
